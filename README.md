@@ -65,8 +65,8 @@ The system was designed and implemented through several lab sessions:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
-2. Import the SQL DDL scripts from Lab 5 (ddl/ folder if separated).
-3. Run the data population scripts (scripts/ folder).
+2. Import the SQL DDL scripts from Lab 5
+3. Run the data population scripts
 4. Execute the queries (queries/ folder) to test functionality.
 
 ---
