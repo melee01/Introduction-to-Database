@@ -3,7 +3,7 @@
 This repository contains the database project developed as part of **Introduction to Databases** course. 
 The project implements a **Property Management System** for **MProps Digital Pte Ltd**, a **fictional platform** where property agents can post listings, customers can browse properties, initiate chats, book appointments, and complete property transactions.  
 
-⚠️ **Disclaimer:** All data used in this project is **sample / mock data** generated for academic purposes. It does not represent any real individuals, agencies, or properties.  
+**Disclaimer:** All data used in this project is **sample / mock data** generated for academic purposes. It does not represent any real individuals, agencies, or properties.  
 
 ---
 
