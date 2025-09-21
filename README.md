@@ -40,7 +40,7 @@ The system was designed and implemented through several lab sessions:
   - Customers can initiate chats, schedule appointments, and leave reviews.  
   - Engagements evolve from *New* → *Viewed* → *In Discussion* → *Purchased*.  
 
-- **SQL Queries Implemented**:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
+- **SQL Queries Implemented**
   - Properties for sale in *Ang Mo Kio* with tenure ≤ 20 years.  
   - Property statistics grouped by type & furnishing status.  
   - Annual sales reports by agency & manager.  
