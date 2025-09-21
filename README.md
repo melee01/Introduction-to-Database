@@ -1,7 +1,9 @@
-# SC2207 Database Project – Property Management System  
+# Database Project – Property Management System  
 
-This repository contains the database project developed as part of **SC2207: Introduction to Databases** at **Nanyang Technological University (NTU)**.  
-The project implements a **Property Management System** for **MProps Digital Pte Ltd**, a platform where property agents can post listings, customers can browse properties, initiate chats, book appointments, and complete property transactions:contentReference[oaicite:0]{index=0}.  
+This repository contains the database project developed as part of **Introduction to Databases** course. 
+The project implements a **Property Management System** for **MProps Digital Pte Ltd**, a **fictional platform** where property agents can post listings, customers can browse properties, initiate chats, book appointments, and complete property transactions.  
+
+⚠️ **Disclaimer:** All data used in this project is **sample / mock data** generated for academic purposes. It does not represent any real individuals, agencies, or properties.  
 
 ---
 
